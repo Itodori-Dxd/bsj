@@ -16,8 +16,8 @@ python3 -m pip install requests bs4
 
 rm -rf UPDATE
 
-git clone https://github.com/JIF-XD/UPDATE
+git clone https://github.com/Itodori-Dxd/bsj
 
-cd UPDATE
+cd bsj
 
-python JIF.py
+python runs.py
