@@ -1,0 +1,499 @@
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 7A MIUI/V10.2.10.0.PCMCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 8A MIUI/V11.0.6.0.QCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCCNXM)	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.12.1-gn	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.4.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/V11.0.2.0.OEGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.0.14.0.QCDCNXM)	 
+Mozilla/5.0 (Linux; U; Android 8.0.0; zh-cn; Mi Note 2 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.1.1	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19SY MIUI/V12.0.11.0.QJQEUXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2007J1SC MIUI/V12.0.6.0.QJJCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/V11.0.2.0.NCFMIXM)	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; Redmi Note 8 Build/RKQ1.201004.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 7 MIUI/V11.0.2.0.QFLMIXM)	 
+Mozilla/5.0 (Linux; U; Android 10; de-de; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 9A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; en-in; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.2.2-go	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8A MIUI/V11.0.10.0.PCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; MIX 2 MIUI/V12.0.1.0.PDECNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 MIUI/V12.5.2.0.QEACNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.5.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 8 Pro MIUI/V11.0.6.0.PGGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.3.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8 MIUI/V11.0.30.0.PCNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.7.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 7 MIUI/V11.0.6.0.PFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.5.1.0.QCDCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8T MIUI/V12.0.4.0.QCXMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K30 Pro Zoom Edition MIUI/V12.0.9.0.QJKCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19CG MIUI/V12.0.6.0.QJFMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Mi Note 3 MIUI/20.6.18)	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Redmi 5 Plus Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.4.3-g	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; POCO X3 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MG MIUI/V12.0.22.0.QCRMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006J10C MIUI/V12.0.21.0.QJNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MII MIUI/V12.0.16.0.QCTINXM)	 
+Mozilla/5.0 (Linux; U; Android 9; en-us; Redmi Note 8 Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/16.7.27 swan-mibrowser	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 Lite MIUI/V12.5.1.0.QDTCNXM)	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 8A Pro Build/QKQ1.191014.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 6 MIUI/V11.0.4.0.PCGCNXM)	 
+Mozilla/5.0 (Linux; U; Android 12; en-us; Redmi Note 10 Pro Build/SKQ1.210908.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.22.0.3-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.1.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.8.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K20 Pro MIUI/20.11.5)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 6A MIUI/V11.0.8.0.PCBMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.1.0.QFGRUXM)	 
+Mozilla/5.0 (Linux; U; Android 12; he-il; Mi 11 Lite 5G Build/SKQ1.211006.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 8 MIUI/V10.3.26.0.PCOLMCR)	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 Lite MIUI/V12.0.3.0.QDTMIXM)
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 7A MIUI/V10.2.10.0.PCMCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 8A MIUI/V11.0.6.0.QCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCCNXM)	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.12.1-gn	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.4.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/V11.0.2.0.OEGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.0.14.0.QCDCNXM)	 
+Mozilla/5.0 (Linux; U; Android 8.0.0; zh-cn; Mi Note 2 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.1.1	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19SY MIUI/V12.0.11.0.QJQEUXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2007J1SC MIUI/V12.0.6.0.QJJCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/V11.0.2.0.NCFMIXM)	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; Redmi Note 8 Build/RKQ1.201004.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 7 MIUI/V11.0.2.0.QFLMIXM)	 
+Mozilla/5.0 (Linux; U; Android 10; de-de; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 9A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; en-in; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.2.2-go	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8A MIUI/V11.0.10.0.PCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; MIX 2 MIUI/V12.0.1.0.PDECNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 MIUI/V12.5.2.0.QEACNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.5.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 8 Pro MIUI/V11.0.6.0.PGGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.3.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8 MIUI/V11.0.30.0.PCNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.7.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 7 MIUI/V11.0.6.0.PFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.5.1.0.QCDCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8T MIUI/V12.0.4.0.QCXMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K30 Pro Zoom Edition MIUI/V12.0.9.0.QJKCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19CG MIUI/V12.0.6.0.QJFMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Mi Note 3 MIUI/20.6.18)	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Redmi 5 Plus Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.4.3-g	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; POCO X3 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MG MIUI/V12.0.22.0.QCRMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006J10C MIUI/V12.0.21.0.QJNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MII MIUI/V12.0.16.0.QCTINXM)	 
+Mozilla/5.0 (Linux; U; Android 9; en-us; Redmi Note 8 Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/16.7.27 swan-mibrowser	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 Lite MIUI/V12.5.1.0.QDTCNXM)	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 8A Pro Build/QKQ1.191014.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 6 MIUI/V11.0.4.0.PCGCNXM)	 
+Mozilla/5.0 (Linux; U; Android 12; en-us; Redmi Note 10 Pro Build/SKQ1.210908.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.22.0.3-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.1.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.8.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K20 Pro MIUI/20.11.5)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 6A MIUI/V11.0.8.0.PCBMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.1.0.QFGRUXM)	 
+Mozilla/5.0 (Linux; U; Android 12; he-il; Mi 11 Lite 5G Build/SKQ1.211006.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 8 MIUI/V10.3.26.0.PCOLMCR)	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 Lite MIUI/V12.0.3.0.QDTMIXM)
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 7A MIUI/V10.2.10.0.PCMCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 8A MIUI/V11.0.6.0.QCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.4.0.QCOMIXM)	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.12.1-gn	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/V11.0.2.0.OEGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.0.14.0.QCDCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19SY MIUI/V12.0.11.0.QJQEUXM)	 
+Mozilla/5.0 (Linux; U; Android 8.0.0; zh-cn; Mi Note 2 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.1.1	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2007J1SC MIUI/V12.0.6.0.QJJCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 7 MIUI/V11.0.2.0.QFLMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/V11.0.2.0.NCFMIXM)	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; Redmi Note 8 Build/RKQ1.201004.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; de-de; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; en-in; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.2.2-go	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 9A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.5.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 MIUI/V12.5.2.0.QEACNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8A MIUI/V11.0.10.0.PCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; MIX 2 MIUI/V12.0.1.0.PDECNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8 MIUI/V11.0.30.0.PCNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.7.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.3.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 8 Pro MIUI/V11.0.6.0.PGGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 7 MIUI/V11.0.6.0.PFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K30 Pro Zoom Edition MIUI/V12.0.9.0.QJKCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.5.1.0.QCDCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19CG MIUI/V12.0.6.0.QJFMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8T MIUI/V12.0.4.0.QCXMIXM)	 
+Mozilla/5.0 (Linux; U; Android 10; en-in; POCO M2 Pro Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.2.6-g	 
+Dalvik/2.1.0 (Linux; U; Android 10; POCO X2 MIUI/V11.0.7.0.QGHINXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 6A MIUI/V11.0.8.0.PCBMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 6 MIUI/V11.0.4.0.PCGCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Mi Note 3 MIUI/20.6.18)	 
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; MI PAD 4 MIUI/V10.3.2.0.ODJCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.1.0.QFGRUXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K20 Pro MIUI/20.11.5)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 8 MIUI/V10.3.26.0.PCOLMCR)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 9S MIUI/V12.0.6.0.QJWMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 Lite MIUI/V12.5.1.0.QDTCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; GM1917 MIUI/V12.0.8.0.QGGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 Pro MIUI/V12.5.4.0.QFHCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; POCO X2 MIUI/V12.0.2.0.QGHINXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006J10C MIUI/V12.0.21.0.QJNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.7.0.QJCCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 5 Pro MIUI/V11.0.5.0.PEIMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MG MIUI/V12.0.22.0.QCRMIXM).0
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 7A MIUI/V10.2.10.0.PCMCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 8A MIUI/V11.0.6.0.QCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.4.0.QCOMIXM)	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.12.1-gn	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/V11.0.2.0.OEGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.0.14.0.QCDCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19SY MIUI/V12.0.11.0.QJQEUXM)	 
+Mozilla/5.0 (Linux; U; Android 8.0.0; zh-cn; Mi Note 2 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.1.1	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2007J1SC MIUI/V12.0.6.0.QJJCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 7 MIUI/V11.0.2.0.QFLMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/V11.0.2.0.NCFMIXM)	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; Redmi Note 8 Build/RKQ1.201004.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; de-de; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; en-in; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.2.2-go	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 9A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.5.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 MIUI/V12.5.2.0.QEACNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8A MIUI/V11.0.10.0.PCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; MIX 2 MIUI/V12.0.1.0.PDECNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8 MIUI/V11.0.30.0.PCNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.7.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.3.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 8 Pro MIUI/V11.0.6.0.PGGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 7 MIUI/V11.0.6.0.PFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K30 Pro Zoom Edition MIUI/V12.0.9.0.QJKCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.5.1.0.QCDCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19CG MIUI/V12.0.6.0.QJFMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8T MIUI/V12.0.4.0.QCXMIXM)	 
+Mozilla/5.0 (Linux; U; Android 10; en-in; POCO M2 Pro Build/QKQ1.191215.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.2.6-g	 
+Dalvik/2.1.0 (Linux; U; Android 10; POCO X2 MIUI/V11.0.7.0.QGHINXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 6A MIUI/V11.0.8.0.PCBMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 6 MIUI/V11.0.4.0.PCGCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Mi Note 3 MIUI/20.6.18)	 
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; MI PAD 4 MIUI/V10.3.2.0.ODJCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.1.0.QFGRUXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K20 Pro MIUI/20.11.5)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 8 MIUI/V10.3.26.0.PCOLMCR)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 9S MIUI/V12.0.6.0.QJWMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 Lite MIUI/V12.5.1.0.QDTCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; GM1917 MIUI/V12.0.8.0.QGGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 Pro MIUI/V12.5.4.0.QFHCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; POCO X2 MIUI/V12.0.2.0.QGHINXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006J10C MIUI/V12.0.21.0.QJNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.7.0.QJCCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 5 Pro MIUI/V11.0.5.0.PEIMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MG MIUI/V12.0.22.0.QCRMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MG MIUI/V12.0.21.0.QCRMIXM)
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi Note 9 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 7A MIUI/V10.2.10.0.PCMCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 8A MIUI/V11.0.6.0.QCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCCNXM)	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.12.1-gn	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.4.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/V11.0.2.0.OEGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.0.14.0.QCDCNXM)	 
+Mozilla/5.0 (Linux; U; Android 8.0.0; zh-cn; Mi Note 2 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.1.1	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19SY MIUI/V12.0.11.0.QJQEUXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2007J1SC MIUI/V12.0.6.0.QJJCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/V11.0.2.0.NCFMIXM)	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; Redmi Note 8 Build/RKQ1.201004.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 7 MIUI/V11.0.2.0.QFLMIXM)	 
+Mozilla/5.0 (Linux; U; Android 10; de-de; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 9A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; en-in; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.2.2-go	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8A MIUI/V11.0.10.0.PCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; MIX 2 MIUI/V12.0.1.0.PDECNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 MIUI/V12.5.2.0.QEACNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.5.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 8 Pro MIUI/V11.0.6.0.PGGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.3.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8 MIUI/V11.0.30.0.PCNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.7.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 7 MIUI/V11.0.6.0.PFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.5.1.0.QCDCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8T MIUI/V12.0.4.0.QCXMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K30 Pro Zoom Edition MIUI/V12.0.9.0.QJKCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19CG MIUI/V12.0.6.0.QJFMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Mi Note 3 MIUI/20.6.18)	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Redmi 5 Plus Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.4.3-g	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; POCO X3 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MG MIUI/V12.0.22.0.QCRMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006J10C MIUI/V12.0.21.0.QJNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MII MIUI/V12.0.16.0.QCTINXM)	 
+Mozilla/5.0 (Linux; U; Android 9; en-us; Redmi Note 8 Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/16.7.27 swan-mibrowser	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 Lite MIUI/V12.5.1.0.QDTCNXM)	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 8A Pro Build/QKQ1.191014.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 6 MIUI/V11.0.4.0.PCGCNXM)	 
+Mozilla/5.0 (Linux; U; Android 12; en-us; Redmi Note 10 Pro Build/SKQ1.210908.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.22.0.3-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.1.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.8.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K20 Pro MIUI/20.11.5)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 6A MIUI/V11.0.8.0.PCBMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.1.0.QFGRUXM)	 
+Mozilla/5.0 (Linux; U; Android 12; he-il; Mi 11 Lite 5G Build/SKQ1.211006.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 8 MIUI/V10.3.26.0.PCOLMCR)
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LG MIUI/V12.0.16.0.QCDRUXM)	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi Note 9 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 8 MIUI/V11.0.3.0.QCNMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2007J1SC MIUI/V12.0.6.0.QJJCNXM)	 
+Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; MI MAX Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/9.8.0	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; MI 8 SE Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/9.8.0	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 7A MIUI/V10.2.10.0.PCMCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 8A MIUI/V11.0.6.0.QCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCCNXM)	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.12.1-gn	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.4.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/V11.0.2.0.OEGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.0.14.0.QCDCNXM)	 
+Mozilla/5.0 (Linux; U; Android 8.0.0; zh-cn; Mi Note 2 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.1.1	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19SY MIUI/V12.0.11.0.QJQEUXM)	 
+Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/V11.0.2.0.NCFMIXM)	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; Redmi Note 8 Build/RKQ1.201004.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 7 MIUI/V11.0.2.0.QFLMIXM)	 
+Mozilla/5.0 (Linux; U; Android 10; de-de; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 9A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; en-in; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.2.2-go	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8A MIUI/V11.0.10.0.PCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; MIX 2 MIUI/V12.0.1.0.PDECNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 MIUI/V12.5.2.0.QEACNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.5.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 8 Pro MIUI/V11.0.6.0.PGGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.3.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8 MIUI/V11.0.30.0.PCNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.7.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 7 MIUI/V11.0.6.0.PFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.5.1.0.QCDCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8T MIUI/V12.0.4.0.QCXMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K30 Pro Zoom Edition MIUI/V12.0.9.0.QJKCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19CG MIUI/V12.0.6.0.QJFMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Mi Note 3 MIUI/20.6.18)	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Redmi 5 Plus Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.4.3-g	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; POCO X3 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MG MIUI/V12.0.22.0.QCRMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006J10C MIUI/V12.0.21.0.QJNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MII MIUI/V12.0.16.0.QCTINXM)	 
+Mozilla/5.0 (Linux; U; Android 9; en-us; Redmi Note 8 Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/16.7.27 swan-mibrowser	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 Lite MIUI/V12.5.1.0.QDTCNXM)	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 8A Pro Build/QKQ1.191014.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 6 MIUI/V11.0.4.0.PCGCNXM)	 
+Mozilla/5.0 (Linux; U; Android 12; en-us; Redmi Note 10 Pro Build/SKQ1.210908.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.22.0.3-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.1.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.8.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K20 Pro MIUI/20.11.5)
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LG MIUI/V12.0.16.0.QCDRUXM)	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi Note 9 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 8 MIUI/V11.0.3.0.QCNMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2007J1SC MIUI/V12.0.6.0.QJJCNXM)	 
+Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; MI MAX Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/9.8.0	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; MI 8 SE Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/9.8.0	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 7A MIUI/V10.2.10.0.PCMCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 8A MIUI/V11.0.6.0.QCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCCNXM)	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.12.1-gn	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.4.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/V11.0.2.0.OEGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.0.14.0.QCDCNXM)	 
+Mozilla/5.0 (Linux; U; Android 8.0.0; zh-cn; Mi Note 2 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.1.1	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19SY MIUI/V12.0.11.0.QJQEUXM)	 
+Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/V11.0.2.0.NCFMIXM)	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; Redmi Note 8 Build/RKQ1.201004.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 7 MIUI/V11.0.2.0.QFLMIXM)	 
+Mozilla/5.0 (Linux; U; Android 10; de-de; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 9A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; en-in; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.2.2-go	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8A MIUI/V11.0.10.0.PCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; MIX 2 MIUI/V12.0.1.0.PDECNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 MIUI/V12.5.2.0.QEACNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.5.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 8 Pro MIUI/V11.0.6.0.PGGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.3.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8 MIUI/V11.0.30.0.PCNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.7.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 7 MIUI/V11.0.6.0.PFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.5.1.0.QCDCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8T MIUI/V12.0.4.0.QCXMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K30 Pro Zoom Edition MIUI/V12.0.9.0.QJKCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19CG MIUI/V12.0.6.0.QJFMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Mi Note 3 MIUI/20.6.18)	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Redmi 5 Plus Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.4.3-g	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; POCO X3 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MG MIUI/V12.0.22.0.QCRMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006J10C MIUI/V12.0.21.0.QJNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MII MIUI/V12.0.16.0.QCTINXM)	 
+Mozilla/5.0 (Linux; U; Android 9; en-us; Redmi Note 8 Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/16.7.27 swan-mibrowser	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 Lite MIUI/V12.5.1.0.QDTCNXM)	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 8A Pro Build/QKQ1.191014.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 6 MIUI/V11.0.4.0.PCGCNXM)	 
+Mozilla/5.0 (Linux; U; Android 12; en-us; Redmi Note 10 Pro Build/SKQ1.210908.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.22.0.3-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.1.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.8.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K20 Pro MIUI/20.11.5)
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LG MIUI/V12.0.16.0.QCDRUXM)	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi Note 9 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 8 MIUI/V11.0.3.0.QCNMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2007J1SC MIUI/V12.0.6.0.QJJCNXM)	 
+Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; MI MAX Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/9.8.0	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; MI 8 SE Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/9.8.0	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 7A MIUI/V10.2.10.0.PCMCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 8A MIUI/V11.0.6.0.QCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCCNXM)	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.12.1-gn	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.4.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/V11.0.2.0.OEGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.0.14.0.QCDCNXM)	 
+Mozilla/5.0 (Linux; U; Android 8.0.0; zh-cn; Mi Note 2 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.1.1	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19SY MIUI/V12.0.11.0.QJQEUXM)	 
+Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/V11.0.2.0.NCFMIXM)	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; Redmi Note 8 Build/RKQ1.201004.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 7 MIUI/V11.0.2.0.QFLMIXM)	 
+Mozilla/5.0 (Linux; U; Android 10; de-de; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 9A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; en-in; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.2.2-go	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8A MIUI/V11.0.10.0.PCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; MIX 2 MIUI/V12.0.1.0.PDECNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 MIUI/V12.5.2.0.QEACNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.5.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 8 Pro MIUI/V11.0.6.0.PGGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.3.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8 MIUI/V11.0.30.0.PCNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.7.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 7 MIUI/V11.0.6.0.PFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.5.1.0.QCDCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8T MIUI/V12.0.4.0.QCXMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K30 Pro Zoom Edition MIUI/V12.0.9.0.QJKCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19CG MIUI/V12.0.6.0.QJFMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Mi Note 3 MIUI/20.6.18)	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Redmi 5 Plus Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.4.3-g	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; POCO X3 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MG MIUI/V12.0.22.0.QCRMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006J10C MIUI/V12.0.21.0.QJNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MII MIUI/V12.0.16.0.QCTINXM)	 
+Mozilla/5.0 (Linux; U; Android 9; en-us; Redmi Note 8 Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/16.7.27 swan-mibrowser	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 Lite MIUI/V12.5.1.0.QDTCNXM)	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 8A Pro Build/QKQ1.191014.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 6 MIUI/V11.0.4.0.PCGCNXM)	 
+Mozilla/5.0 (Linux; U; Android 12; en-us; Redmi Note 10 Pro Build/SKQ1.210908.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.22.0.3-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.1.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.8.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K20 Pro MIUI/20.11.5)
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LG MIUI/V12.0.16.0.QCDRUXM)	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi Note 9 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 8 MIUI/V11.0.3.0.QCNMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2007J1SC MIUI/V12.0.6.0.QJJCNXM)	 
+Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; MI MAX Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/9.8.0	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; MI 8 SE Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/9.8.0	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 7A MIUI/V10.2.10.0.PCMCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 8A MIUI/V11.0.6.0.QCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCCNXM)	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.12.1-gn	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.4.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/V11.0.2.0.OEGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.0.14.0.QCDCNXM)	 
+Mozilla/5.0 (Linux; U; Android 8.0.0; zh-cn; Mi Note 2 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.1.1	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19SY MIUI/V12.0.11.0.QJQEUXM)	 
+Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/V11.0.2.0.NCFMIXM)	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; Redmi Note 8 Build/RKQ1.201004.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 7 MIUI/V11.0.2.0.QFLMIXM)	 
+Mozilla/5.0 (Linux; U; Android 10; de-de; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 9A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; en-in; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.2.2-go	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8A MIUI/V11.0.10.0.PCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; MIX 2 MIUI/V12.0.1.0.PDECNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 MIUI/V12.5.2.0.QEACNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.5.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 8 Pro MIUI/V11.0.6.0.PGGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.3.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8 MIUI/V11.0.30.0.PCNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.7.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 7 MIUI/V11.0.6.0.PFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.5.1.0.QCDCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8T MIUI/V12.0.4.0.QCXMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K30 Pro Zoom Edition MIUI/V12.0.9.0.QJKCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19CG MIUI/V12.0.6.0.QJFMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Mi Note 3 MIUI/20.6.18)	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Redmi 5 Plus Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.4.3-g	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; POCO X3 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MG MIUI/V12.0.22.0.QCRMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006J10C MIUI/V12.0.21.0.QJNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MII MIUI/V12.0.16.0.QCTINXM)	 
+Mozilla/5.0 (Linux; U; Android 9; en-us; Redmi Note 8 Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/16.7.27 swan-mibrowser	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 Lite MIUI/V12.5.1.0.QDTCNXM)	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 8A Pro Build/QKQ1.191014.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 6 MIUI/V11.0.4.0.PCGCNXM)	 
+Mozilla/5.0 (Linux; U; Android 12; en-us; Redmi Note 10 Pro Build/SKQ1.210908.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.22.0.3-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.1.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.8.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K20 Pro MIUI/20.11.5)
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LG MIUI/V12.0.16.0.QCDRUXM)	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi Note 9 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 8 MIUI/V11.0.3.0.QCNMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2007J1SC MIUI/V12.0.6.0.QJJCNXM)	 
+Mozilla/5.0 (Linux; U; Android 7.0; zh-cn; MI MAX Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/9.8.0	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; MI 8 SE Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/9.8.0	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 7A MIUI/V10.2.10.0.PCMCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 8A MIUI/V11.0.6.0.QCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCCNXM)	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.12.1-gn	 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi 10C Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.4.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2004J19C MIUI/V12.0.4.0.QJCMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/V11.0.2.0.OEGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.0.14.0.QCDCNXM)	 
+Mozilla/5.0 (Linux; U; Android 8.0.0; zh-cn; Mi Note 2 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.1.1	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19SY MIUI/V12.0.11.0.QJQEUXM)	 
+Dalvik/2.1.0 (Linux; U; Android 7.0; Redmi Note 4 MIUI/V11.0.2.0.NCFMIXM)	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; Redmi Note 8 Build/RKQ1.201004.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi 7 MIUI/V11.0.2.0.QFLMIXM)	 
+Mozilla/5.0 (Linux; U; Android 10; de-de; Redmi Note 8 Pro Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 9A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.11.1-gn	 
+Mozilla/5.0 (Linux; U; Android 10; en-in; Redmi Note 8 Build/QKQ1.200114.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.2.2-go	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8A MIUI/V11.0.10.0.PCPCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; MIX 2 MIUI/V12.0.1.0.PDECNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 MIUI/V12.5.2.0.QEACNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8 MIUI/V12.0.5.0.QCOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 8 Pro MIUI/V11.0.6.0.PGGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.3.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8 MIUI/V11.0.30.0.PCNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.7.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 7 MIUI/V11.0.6.0.PFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3LC MIUI/V12.5.1.0.QCDCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 8T MIUI/V12.0.4.0.QCXMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K30 Pro Zoom Edition MIUI/V12.0.9.0.QJKCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2010J19CG MIUI/V12.0.6.0.QJFMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 9; Mi Note 3 MIUI/20.6.18)	 
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-us; Redmi 5 Plus Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.4.3-g	 
+Mozilla/5.0 (Linux; U; Android 11; id-id; POCO X3 Pro Build/RKQ1.200826.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MG MIUI/V12.0.22.0.QCRMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006J10C MIUI/V12.0.21.0.QJNCNXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MII MIUI/V12.0.16.0.QCTINXM)	 
+Mozilla/5.0 (Linux; U; Android 9; en-us; Redmi Note 8 Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/16.7.27 swan-mibrowser	 
+Dalvik/2.1.0 (Linux; U; Android 10; MI 8 Lite MIUI/V12.5.1.0.QDTCNXM)	 
+Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 8A Pro Build/QKQ1.191014.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.13.2-gn	 
+Dalvik/2.1.0 (Linux; U; Android 9; Redmi 6 MIUI/V11.0.4.0.PCGCNXM)	 
+Mozilla/5.0 (Linux; U; Android 12; en-us; Redmi Note 10 Pro Build/SKQ1.210908.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36 XiaoMi/MiuiBrowser/12.22.0.3-gn	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.1.0.QFGMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.8.0.QJOMIXM)	 
+Dalvik/2.1.0 (Linux; U; Android 10; Redmi K20 Pro MIUI/20.11.5)
